@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\boxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9EB884-E579-4961-A616-31B7120E9DD1}|boxing\\boxing.csproj|c:\\users\\admin\\source\\repos\\boxing\\boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9EB884-E579-4961-A616-31B7120E9DD1}|boxing\\boxing.csproj|solutionrelative:boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\boxing\\boxing\\Program.cs",
+              "RelativeDocumentMoniker": "boxing\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\boxing\\boxing\\Program.cs",
+              "RelativeToolTip": "boxing\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:19:54.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

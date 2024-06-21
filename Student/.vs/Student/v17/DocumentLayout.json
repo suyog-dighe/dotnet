@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|c:\\users\\admin\\source\\repos\\student\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|c:\\users\\admin\\source\\repos\\student\\student\\gstbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|solutionrelative:student\\gstbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|c:\\users\\admin\\source\\repos\\student\\student\\atmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64834D2-DE68-496F-B396-2ABF95F6E282}|Student\\Student.csproj|solutionrelative:student\\atmdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GstBill.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\GstBill.cs",
+              "RelativeDocumentMoniker": "Student\\GstBill.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\GstBill.cs",
+              "RelativeToolTip": "Student\\GstBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:02:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ATMDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\ATMDisplay.cs",
+              "RelativeDocumentMoniker": "Student\\ATMDisplay.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\ATMDisplay.cs",
+              "RelativeToolTip": "Student\\ATMDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:40:57.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Student\\Student\\Program.cs",
+              "RelativeToolTip": "Student\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:13:48.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

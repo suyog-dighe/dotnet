@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\boxing\boxing\bin\Debug\net8.0\boxing.exe
+C:\Users\Admin\source\repos\boxing\boxing\bin\Debug\net8.0\boxing.deps.json
+C:\Users\Admin\source\repos\boxing\boxing\bin\Debug\net8.0\boxing.runtimeconfig.json
+C:\Users\Admin\source\repos\boxing\boxing\bin\Debug\net8.0\boxing.dll
+C:\Users\Admin\source\repos\boxing\boxing\bin\Debug\net8.0\boxing.pdb
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.AssemblyInfo.cs
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.sourcelink.json
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.dll
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\refint\boxing.dll
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.pdb
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\boxing.genruntimeconfig.cache
+C:\Users\Admin\source\repos\boxing\boxing\obj\Debug\net8.0\ref\boxing.dll

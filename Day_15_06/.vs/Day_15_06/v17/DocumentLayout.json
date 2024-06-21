@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Day_15_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC7D2C-8606-4874-AA65-D4C46C95EC03}|Day_15_06\\Day_15_06.csproj|c:\\users\\admin\\source\\repos\\day_15_06\\day_15_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC7D2C-8606-4874-AA65-D4C46C95EC03}|Day_15_06\\Day_15_06.csproj|solutionrelative:day_15_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC7D2C-8606-4874-AA65-D4C46C95EC03}|Day_15_06\\Day_15_06.csproj|c:\\users\\admin\\source\\repos\\day_15_06\\day_15_06\\day_15_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCCC7D2C-8606-4874-AA65-D4C46C95EC03}|Day_15_06\\Day_15_06.csproj|solutionrelative:day_15_06\\day_15_06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day_15_06",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Day_15_06\\Day_15_06\\Day_15_06.csproj",
+              "RelativeDocumentMoniker": "Day_15_06\\Day_15_06.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Day_15_06\\Day_15_06\\Day_15_06.csproj",
+              "RelativeToolTip": "Day_15_06\\Day_15_06.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T07:11:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Day_15_06\\Day_15_06\\Program.cs",
+              "RelativeDocumentMoniker": "Day_15_06\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Day_15_06\\Day_15_06\\Program.cs",
+              "RelativeToolTip": "Day_15_06\\Program.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAALcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:40:02.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
