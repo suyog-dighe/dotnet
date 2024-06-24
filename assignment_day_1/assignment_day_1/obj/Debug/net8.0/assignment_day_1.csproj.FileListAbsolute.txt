@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\bin\Debug\net8.0\assignment_day_1.exe
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\bin\Debug\net8.0\assignment_day_1.deps.json
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\bin\Debug\net8.0\assignment_day_1.runtimeconfig.json
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\bin\Debug\net8.0\assignment_day_1.dll
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\bin\Debug\net8.0\assignment_day_1.pdb
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.sourcelink.json
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.dll
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\refint\assignment_day_1.dll
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.pdb
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\assignment_day_1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\assignment_day_1\assignment_day_1\obj\Debug\net8.0\ref\assignment_day_1.dll
