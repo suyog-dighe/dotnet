@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to bottom right, #f0bb90, #a4edc2);
+            margin: 0;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 95%;
+            height: 80%;
+            /* Adjusted width */
+            max-width: 900px;
+            /* Adjusted max-width */
+            margin: 20px auto;
+            background-color: #e3ec6a;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border: 3px double #000;
+            /* Double dark border */
+        }
+
+        th,
+        td {
+            border: 3px double #000;
+            /* Double dark border */
+            padding: 12px;
+            /* Increased padding */
+            text-align: center;
+            font-size: 1.1em;
+            /* Increased font size */
+        }
+
+        th {
+            background-color: #d68126;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #7766d7;
+        }
+
+        tr:nth-child(odd) {
+            background: linear-gradient(to bottom right, #7ce774, #a4edc2);
+        }
+
+        caption {
+            font-size: 1.5em;
+            margin: 10px;
+            font-weight: bold;
+        }
+
+        .header-row td {
+              background: linear-gradient(to bottom right, #3498db, #2ecc71);
+            /* Change background color for the specific row */
+            color: white;
+            /* Example: Set text color to white for better contrast */
+            font-weight: bold;
+            font-size: 1.2em;
+            /* Increased font size */
+        }
+
+        .time-column {
+            background-color: #ffcc00;
+            /* Color for "Time/Day" column */
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <caption>Sanjivani Engineering College, Kopargaon</caption>
+        <thead>
+            <tr class="header-row">
+                <td colspan="7"><b>Time Table (Dot Net)</b></td>
+            </tr>
+            <tr>
+                <th class="time-column">Time/Day</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="time-column">9:30 - 1:00</td>
+                <td>Theory</td>
+                <td>Theory</td>
+                <td>Theory</td>
+                <td>Theory</td>
+                <td>Theory</td>
+                <td>World STL</td>
+            </tr>
+            <tr>
+                <td class="time-column">1:00 - 2:00</td>
+                <td colspan="6">Lunch Break</td>
+            </tr>
+            <tr>
+                <td class="time-column">2:00 - 5:40</td>
+                <td>Practical</td>
+                <td>Practical</td>
+                <td>Practical</td>
+                <td>Practical</td>
+                <td>Practical</td>
+                <td>Practical</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
